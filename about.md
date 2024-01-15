@@ -3,14 +3,7 @@ layout: lecture
 title: "Why we are teaching this class"
 ---
 
-During a traditional Computer Science education, chances are you will take
-plenty of classes that teach you advanced topics within CS, everything from
-Operating Systems to Programming Languages to Machine Learning. But at many
-institutions there is one essential topic that is rarely covered and is instead
-left for students to pick up on their own: computing ecosystem literacy.
-
-Over the years, we have helped teach several classes at MIT, and over and over
-we have seen that many students have limited knowledge of the tools available
+During we have seen that many students have limited knowledge of the tools available
 to them. Computers were built to automate manual tasks, yet students often
 perform repetitive tasks by hand or fail to take full advantage of powerful
 tools such as version control and text editors. In the best case, this results
